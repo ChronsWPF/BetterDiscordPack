@@ -22,7 +22,7 @@ if you want notifications on when it updates. join one of these servers ( or bot
 # important
 
 THESE ONLY WORK ON -BETTER DISCORD-
-------------------------------------
+
 i do not take ANY liabilty over how u decide to use these plugins..
 if u do share my pack please do no remove the credits file :)
 
